@@ -1,0 +1,55 @@
+2026-01-19 19:22:14,985 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-19 19:22:14,985 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-19 19:22:14,985 | INFO | Added job "monitor" to job store "default"
+2026-01-19 19:22:14,985 | INFO | Added job "startup_message" to job store "default"
+2026-01-19 19:22:14,985 | INFO | Scheduler started
+2026-01-19 19:22:14,985 | INFO | Running job "startup_message (trigger: date[2026-01-19 19:22:14 +05], next run at: 2026-01-19 19:22:14 +05)" (scheduled at 2026-01-19 19:22:14.985157+05:00)
+2026-01-19 19:22:14,985 | INFO | Removed job 0f2852d58d0d42819cc624a3e55df327
+2026-01-19 19:22:14,985 | INFO | Bot ishga tushdi
+2026-01-19 19:22:15,020 | INFO | Job "startup_message (trigger: date[2026-01-19 19:22:14 +05], next run at: 2026-01-19 19:22:14 +05)" executed successfully
+2026-01-19 19:22:29,865 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-19 19:22:29,866 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-19 19:22:29,867 | INFO | Added job "monitor" to job store "default"
+2026-01-19 19:22:29,867 | INFO | Added job "startup_message" to job store "default"
+2026-01-19 19:22:29,867 | INFO | Scheduler started
+2026-01-19 19:22:29,868 | INFO | Running job "startup_message (trigger: date[2026-01-19 19:22:29 +05], next run at: 2026-01-19 19:22:29 +05)" (scheduled at 2026-01-19 19:22:29.865427+05:00)
+2026-01-19 19:22:29,868 | INFO | Removed job 198ad150d4d446beaaf43fba9e128370
+2026-01-19 19:22:29,870 | INFO | Bot ishga tushdi
+2026-01-19 19:22:29,871 | INFO | Job "startup_message (trigger: date[2026-01-19 19:22:29 +05], next run at: 2026-01-19 19:22:29 +05)" executed successfully
+2026-01-19 19:22:36,696 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-19 19:22:36,696 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-19 19:22:36,696 | INFO | Added job "monitor" to job store "default"
+2026-01-19 19:22:36,696 | INFO | Added job "startup_message" to job store "default"
+2026-01-19 19:22:36,696 | INFO | Scheduler started
+2026-01-19 19:22:36,696 | INFO | Running job "startup_message (trigger: date[2026-01-19 19:22:36 +05], next run at: 2026-01-19 19:22:36 +05)" (scheduled at 2026-01-19 19:22:36.696643+05:00)
+2026-01-19 19:22:36,696 | INFO | Removed job 4741abd023714b7bb8b96ca971934429
+2026-01-19 19:22:36,696 | INFO | Bot ishga tushdi
+2026-01-19 19:22:36,696 | INFO | Job "startup_message (trigger: date[2026-01-19 19:22:36 +05], next run at: 2026-01-19 19:22:36 +05)" executed successfully
+2026-01-19 19:23:56,376 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-19 19:23:56,378 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-19 19:23:56,382 | INFO | Added job "monitor" to job store "default"
+2026-01-19 19:23:56,382 | INFO | Added job "startup_message" to job store "default"
+2026-01-19 19:23:56,382 | INFO | Scheduler started
+2026-01-19 19:23:56,382 | INFO | Running job "startup_message (trigger: date[2026-01-19 19:23:56 +05], next run at: 2026-01-19 19:23:56 +05)" (scheduled at 2026-01-19 19:23:56.378911+05:00)
+2026-01-19 19:23:56,384 | INFO | Removed job aa48ad9911d14976a8187e8fad8a8c95
+2026-01-19 19:23:56,386 | INFO | Bot ishga tushdi
+2026-01-19 19:23:56,386 | INFO | Job "startup_message (trigger: date[2026-01-19 19:23:56 +05], next run at: 2026-01-19 19:23:56 +05)" executed successfully
+2026-01-19 19:27:27,505 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-19 19:27:27,505 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-19 19:27:27,521 | INFO | Added job "monitor" to job store "default"
+2026-01-19 19:27:27,521 | INFO | Added job "startup_message" to job store "default"
+2026-01-19 19:27:27,521 | INFO | Scheduler started
+2026-01-19 19:27:27,521 | INFO | Running job "startup_message (trigger: date[2026-01-19 19:27:27 +05], next run at: 2026-01-19 19:27:27 +05)" (scheduled at 2026-01-19 19:27:27.505487+05:00)
+2026-01-19 19:27:27,521 | INFO | Removed job 1b5b23d63842462a811b00e4509e34d7
+2026-01-19 19:27:27,521 | INFO | Bot ishga tushdi
+2026-01-19 19:27:27,521 | INFO | Job "startup_message (trigger: date[2026-01-19 19:27:27 +05], next run at: 2026-01-19 19:27:27 +05)" executed successfully
+2026-01-19 19:28:27,926 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-19 19:28:27,926 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-19 19:28:27,926 | INFO | Added job "monitor" to job store "default"
+2026-01-19 19:28:27,926 | INFO | Added job "startup_message" to job store "default"
+2026-01-19 19:28:27,926 | INFO | Scheduler started
+2026-01-19 19:28:27,926 | INFO | Running job "startup_message (trigger: date[2026-01-19 19:28:27 +05], next run at: 2026-01-19 19:28:27 +05)" (scheduled at 2026-01-19 19:28:27.926953+05:00)
+2026-01-19 19:28:27,926 | INFO | Removed job 766ee4ae74fa4902b3a7c41fd86ea1bb
+2026-01-19 19:28:31,045 | INFO | HTTP Request: POST https://api.telegram.org/bot8034565159:AAGRJooSaa4fqQ9Hs6MDx15qQio8VVnZ2Cs/sendMessage "HTTP/1.1 200 OK"
+2026-01-19 19:28:31,047 | INFO | Bot ishga tushdi
+2026-01-19 19:28:31,048 | INFO | Job "startup_message (trigger: date[2026-01-19 19:28:27 +05], next run at: 2026-01-19 19:28:27 +05)" executed successfully
